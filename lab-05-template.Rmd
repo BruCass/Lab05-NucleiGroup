@@ -21,7 +21,7 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
+_The image is not a good example of data visualisation and presentation. The length of the bars are not proportional to the number of speakers, making comparison very difficult. There also aren't any grid-lines to aid with comparison. The width of the bars increases for Chinese, making the value seem even greater, possibly creating a biased view._
 
 
 
@@ -32,7 +32,7 @@ _Write your comments about image 1 below_
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
+_Precise proportions cannot be obtained from the image. Both sector radii and sector angle changes so we cannot tell if the comparison is based on angle, radius, or area making it difficult to interpret._
 
 
 
@@ -43,7 +43,7 @@ _Write your comments about image 2 below_
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+_Points overlap making it hard to distinguish between them and read the country labels. No scale so we don't know the actual values, nor the units used in producing the graph. No trend-line to aid with the interpretation of the relationship. Point colours and sizes vary but there is no legend to tell what this variation means._
 
 
 
@@ -54,7 +54,7 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
+_Its hard to get an exact idea of population values with this scaling. x axis scale is not labeled consistently (is logarithmic but is not labeled at equal logarithmic intervals) making it harder to interpret. Which countries are considered developed?_
 
 
 
